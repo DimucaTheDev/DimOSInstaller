@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "install DimOS", "install DimOS\install DimOS.csproj", "{EFE54D79-ED8D-4CFE-A9A0-CC2903374AC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFE54D79-ED8D-4CFE-A9A0-CC2903374AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE54D79-ED8D-4CFE-A9A0-CC2903374AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE54D79-ED8D-4CFE-A9A0-CC2903374AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE54D79-ED8D-4CFE-A9A0-CC2903374AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C14BEF06-D557-427C-9CA6-807BE611E2C0}
+	EndGlobalSection
+EndGlobal
